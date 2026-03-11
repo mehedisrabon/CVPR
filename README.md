@@ -1,7 +1,3 @@
-Here is a professional and structured `README.md` file for your GitHub repository. It organizes your five assignments into a cohesive "Computer Vision & Deep Learning Portfolio," highlighting the progression from foundational algorithms to advanced transfer learning.
-
----
-
 # Computer Vision & Deep Learning Portfolio
 
 This repository contains a series of assignments exploring the evolution of Computer Vision (CV) and Machine Learning (ML) techniques—starting from fundamental algorithms built with NumPy to deploying real-time biometric systems using State-of-the-Art (SOTA) Deep Learning architectures.
