@@ -66,7 +66,7 @@ Leveraged industry-standard Transfer Learning to enhance the accuracy and robust
 │   │   ├── demoMNIST.ipynb                # Real-time digit recognition pipeline
 │   │   ├── digit.ipynb                    # MNIST model training logic
 │   ├── CNN-Based Face Attendance System/  # Custom CNN for biometric logging
-│   └── Advanced Biometrics with Transfer Learning (ResNet50)/ # SOTA face identification
+│   └── Face Recognition using Resnet(ResNet50)/ # SOTA face identification
 └── README.md
 
 ```
